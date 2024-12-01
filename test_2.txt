@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 editing via computer bash
+=======
+editing via github online
+>>>>>>> e9dec4a6cc0355c3bdee1631cda819a8ce43c32c
